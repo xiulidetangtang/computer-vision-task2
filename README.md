@@ -15,4 +15,8 @@ mask rcnn 参数链接：通过网盘分享的文件：final_mask_rcnn_complete.
 链接: https://pan.baidu.com/s/1mgWJcpV9UXEfaQ3RtFVl3w 提取码: jy2f
 sparse rcnn 参数链接：通过网盘分享的文件：epoch_50.zip
 链接: https://pan.baidu.com/s/1h0b5O9F4d93r2cr1a45Bow 提取码: ggrm
-task1实验模型数量有点多了，参数链接不好整理。老师可以参考我同伴的有关task1的工作。
+task1 这里因为太大了一个文件放不下，因此用两个文件装
+part1参数链接：通过网盘分享的文件：task1-part1.zip
+链接: https://pan.baidu.com/s/1G34sioXPGB1DjaFl2Du7DQ 提取码: ayhf
+part2参数链接：通过网盘分享的文件：task1-part2.zip
+链接: https://pan.baidu.com/s/1CK996Qmqf4tb0OWW8EQHbQ 提取码: e61d
